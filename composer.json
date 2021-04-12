@@ -1,0 +1,10 @@
+{
+    "name": "willianmano/moodle-profilefield_cpf",
+    "type": "moodle-profilefield",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "cpf"
+    }
+}
